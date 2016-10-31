@@ -1,6 +1,6 @@
 {
-  "name": "passport-openid",
-  "version": "0.4.0",
+  "name": "passport-openid-node6support",
+  "version": "1.0.0",
   "description": "OpenID authentication strategy for Passport.",
   "keywords": [
     "passport",
